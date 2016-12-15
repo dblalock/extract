@@ -1,6 +1,8 @@
 
 # EXTRACT: Strong Examples from Weakly-Labeled Sensor Data
 
+Download the [EXTRACT paper here](https://arxiv.org/pdf/1609.09196.pdf).
+
 ## What problem does this solve?
 
 ### Short version
